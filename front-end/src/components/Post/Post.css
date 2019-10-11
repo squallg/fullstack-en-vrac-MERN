@@ -1,0 +1,21 @@
+/*
+ * Post style
+ */
+
+.post {
+    border: 1px solid black;
+    margin: 50px 20px;
+    padding: 20px 10px;
+}
+
+.post .post-meta-data .author {
+    font-size: 15px;
+    color: grey;
+    float: left;
+}
+
+.post .post-meta-data .date {
+    font-size: 15px;
+    color: grey;
+    float: right;
+}
